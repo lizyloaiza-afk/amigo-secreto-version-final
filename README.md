@@ -50,3 +50,5 @@ Nueva funcionalidad- Muestra lista de nombres en la pantalla
 
 Nueva funcionalidad- sortea amigo secreto y muestra resultado en pantalla
 <img width="1876" height="904" alt="Captura de pantalla 2025-09-16 214848" src="https://github.com/user-attachments/assets/cf1eadaf-9b46-45f7-9936-8cf12c11f76d" />
+
+Mejora de usabilidad: después de agregar un nombre, el campo queda listo automáticamente para escribir el siguiente, sin necesidad de hacer clic de nuevo.

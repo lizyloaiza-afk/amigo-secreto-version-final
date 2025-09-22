@@ -27,6 +27,8 @@ function agregarAmigo() {
 
     // Limpiar campo de entrada
     input.value = "";
+    input.focus();
+
 }
 
 function mostrarLista() {

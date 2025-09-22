@@ -8,7 +8,8 @@ Copia este repositorio:
 git clone https://github.com/lizyloaiza-afk/amigo-secreto-version-final.git
 
 Entra en la carpeta del proyecto:
-cd challenge-amigo-secreto_esp-main
+cd amigo-secreto-version-final
+
 
 Dependencias:
 Node.js (versión 14 o superior).

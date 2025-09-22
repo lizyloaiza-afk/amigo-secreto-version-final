@@ -66,3 +66,10 @@ function sortearAmigo() {
     document.getElementById("resultado").innerHTML =
         `🎉 Tu amigo secreto es: <strong>${nombreSorteado}</strong>`;
 }
+// Permitir agregar con la tecla Enter
+document.getElementById("amigo").addEventListener("keypress", function(event) {
+    if (event.key === "Enter") {
+        event.preventDefault(); // Evita que se recargue la página
+        agregarAmigo();
+    }
+});

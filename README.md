@@ -5,7 +5,7 @@ Este es mi proyecto de Amigo Secreto, desarrollado en JavaScript como parte de m
 
 Instalación:
 Copia este repositorio:
-git clone https://github.com/miusuario/challenge-amigo-secreto_esp-main.git
+git clone https://github.com/lizyloaiza-afk/amigo-secreto-version-final.git
 
 Entra en la carpeta del proyecto:
 cd challenge-amigo-secreto_esp-main
